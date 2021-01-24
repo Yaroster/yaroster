@@ -24,14 +24,6 @@ Here are some of the things I do for fun:
 ![](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## &#x1f4c8; My Stats
-<a href="https://github.com/yaroster/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yaroster&show_icons=true&theme=dark&icon_color=fff" />
-</a>
-<a href="https://github.com/yaroster/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaroster&layout=compact&theme=dark"/>
-</a>
-
 ## You can find me here:
 [![](https://img.shields.io/badge/Youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCfPxODJFdt9Y08je7Lv_uXw)
 [![](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Yaroster)
@@ -40,3 +32,11 @@ Here are some of the things I do for fun:
 [![](https://img.shields.io/badge/Tumblr%20-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white)](https://yaroster.tumblr.com)
 [![](https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Yaroster)
 [![](https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://pastebin.com/2TcX8Uef)
+
+## &#x1f4c8; My Stats
+<a href="https://github.com/yaroster/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yaroster&show_icons=true&theme=dark&icon_color=fff" />
+</a>
+<a href="https://github.com/yaroster/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaroster&layout=compact&theme=dark"/>
+</a>
