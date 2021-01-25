@@ -35,7 +35,7 @@ Here are some of the things I do for fun:
 
 ## &#x1f4c8; My Stats
 <a href="https://github.com/yaroster/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yaroster&show_icons=true&theme=dark&icon_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yaroster&show_icons=true&theme=dark&icon_color=fff&hide=stars,prs"/>
 </a>
 <a href="https://github.com/yaroster/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaroster&layout=compact&theme=dark"/>
