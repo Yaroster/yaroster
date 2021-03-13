@@ -32,6 +32,7 @@ Here are some of the things I do for fun:
 [![](https://img.shields.io/badge/Tumblr%20-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white)](https://yaroster.tumblr.com)
 [![](https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Yaroster)
 [![](https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://pastebin.com/2TcX8Uef)
+[![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](http://paypal.me/Yaroster)
 
 ## &#x1f4c8; My Stats
 <a href="https://github.com/yaroster/github-readme-stats">
