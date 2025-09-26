@@ -5,7 +5,7 @@ My name is Yaroster, I'm a French Mathematics Student. I grew up in Dubai and I 
 ---
 ## 📌 What I'm doing right now !
 - Building **AI-powered assistants** and experimenting with **on-device LLMs**. (You should check my [huggingface](huggingface.co/Yaroster)).
-- Making a **custom [Minecraft server](masser.online)** with plugins, mods and DB.
+- Making a **custom [Minecraft](masser.online) server** with plugins, mods and DB.
 - Writing articles on my blog [skoomaDen](skoomaden.me).
 ---
 
